@@ -1,0 +1,13 @@
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\models\Note.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\filters\AuthenticationFilter.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\services\NoteService.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\servlets\LoginServlet.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\dataaccess\UserDB.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\models\Role.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\models\User.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\dataaccess\NoteDB.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\services\AccountService.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\servlets\NoteServlet.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\servlets\AdminServlet.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\filters\AdminFilter.java
+C:\CPRG352\lab8\src\main\java\ca\sait\lab8\dataaccess\DBUtil.java
